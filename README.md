@@ -16,6 +16,11 @@
 ## 📥 Installation
 
 ```bash
+brew tap finefeinlyy/mytools
+brew install thsay
+```
+or
+```bash
 curl -sL https://raw.githubusercontent.com/finefeinlyy/thsay/main/install.sh | bash
 ```
 
